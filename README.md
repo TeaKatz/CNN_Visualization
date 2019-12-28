@@ -1,2 +1,2 @@
 # CNN_Visualization
-Corpus of tool for CNN visualization CNN
+Corpus of tool for CNN visualization
